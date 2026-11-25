@@ -7,7 +7,7 @@ excuses itself for dying at the climax of a movie, to /output/entry.txt.
 
 import os
 
-ENTRY = "I peeked at the ending, gasped, and fainted. Even routers die of spoilers."
+ENTRY = "I peeked at the ending, gasped, and fainted. Turns out even routers die of spoilers."
 
 
 def main() -> None:
